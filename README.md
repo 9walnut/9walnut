@@ -1,5 +1,4 @@
 ### Hi there 👋
-![9walnut's GitHub stats](https://github-readme-stats.vercel.app/api?username=9walnut&show_icons=true&theme=radical)
 <h1>📚 STACKS</h1>
         <div align=center>
           <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
