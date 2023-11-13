@@ -2,7 +2,7 @@
 <p>
   <a href="mailto:kguho9202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kguho9202@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://9walnut.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=GitHub%logo=&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kguho9202/" target="_blank"><img src="https://img.shields.io/badge/GuhoKWON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/9walnut/" target="_blank"><img src="https://img.shields.io/badge/GuhoKWON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <p>
