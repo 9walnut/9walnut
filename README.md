@@ -31,6 +31,7 @@
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
           <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
           <br>
+<h2>🛠 Tools</h2>
           <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
           <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white">
