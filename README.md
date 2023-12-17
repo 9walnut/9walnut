@@ -1,16 +1,5 @@
-### 🤞 Nice way to meet me
-<p>
-  <a href="mailto:kguho9202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href=https://9walnut.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://9walnut.tistory.com/"> </a>
-  <a href="https://www.linkedin.com/in/9walnut/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4"> </a>
-</p>
-
-<p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in WEB.🚀<br/>
-</p>
+### 성장과 협업을 좋아하고 앞으로 정진하는 개발자 권구호입니다.
     
-### 💪 Skills
 ### Front-End
 <div align=left>
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -39,3 +28,11 @@
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+### 🤞 Nice way to meet me
+<p>
+  <a href="mailto:kguho9202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href=https://9walnut.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://9walnut.tistory.com/"> </a>
+  <a href="https://www.linkedin.com/in/9walnut/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4"> </a>
+</p>
