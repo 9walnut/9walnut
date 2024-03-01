@@ -26,5 +26,5 @@
 <p>
   <a href=https://9walnut.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://9walnut.tistory.com/"> </a>
   <a href="mailto:kguho9202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4"> </a>
+  <a href=https://lavish-backpack-a1e.notion.site/9walnut-Portfolio-bb9c1eff87ee40db94527fe5868d8f9b?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://massive-surgeon-e1a.notion.site/BackendEngineer-Web-Developer-9a19399a7c47402ea1b93aaf15844061?pvs=74"> </a>
 </p>
