@@ -36,4 +36,4 @@
 
 <img alt="CKA" src="https://github.com/9walnut/9walnut/assets/100561986/7d0b8e16-f02f-4f3f-8ec0-238b2e6d3315" width="150px" />
 
-<a href="https://www.credly.com/badges/dc9cbda2-9e21-4ae5-816d-bc19bac51c4d/public_url" target="_blank"> Certificate Kubernetes Administrator, Aug 2023</a>
+<a href="https://www.credly.com/badges/dc9cbda2-9e21-4ae5-816d-bc19bac51c4d/public_url" target="_blank"> CKA, Aug 2023</a>
