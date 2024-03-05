@@ -31,9 +31,3 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://massive-surgeon-e1a.notion.site/BackendEngineer-Web-Developer-9a19399a7c47402ea1b93aaf15844061"> 
     </a>
 </p>
-
-## Certifications
-
-<img alt="CKA" src="https://github.com/9walnut/9walnut/assets/100561986/7d0b8e16-f02f-4f3f-8ec0-238b2e6d3315" width="150px" />
-
-<a href="https://www.credly.com/badges/dc9cbda2-9e21-4ae5-816d-bc19bac51c4d/public_url" target="_blank"> CKA / Aug.12.2023</a>
